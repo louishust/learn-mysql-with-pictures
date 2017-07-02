@@ -1,4 +1,4 @@
-#Learn MySQL with Pictures
+# Learn MySQL with Pictures
 
 通过Picture描述的方式，了解MySQL特性。
 
